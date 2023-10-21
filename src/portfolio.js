@@ -52,36 +52,12 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
-  // {
-  //   name: "YouTube",
-  //   link: "https://youtube.com/c/DevSense19",
-  //   fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
-  //   backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
-  // },
   {
     name: "Gmail",
     link: "mailto:rahulprajapati0402@gmail.com",
     fontAwesomeIcon: "fas fa-envelope", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
-  // {
-  //   name: "Twitter",
-  //   link: "https://twitter.com/ashutosh_1919",
-  //   fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
-  //   backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
-  // },
-  // {
-  //   name: "Facebook",
-  //   link: "https://www.facebook.com/laymanbrother.19/",
-  //   fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
-  //   backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
-  // },
-  // {
-  //   name: "Instagram",
-  //   link: "https://www.instagram.com/Python Developer/",
-  //   fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
-  //   backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
-  // },
 ];
 
 const skills = {
@@ -392,19 +368,19 @@ const degrees = {
       ],
       website_link: "http://ldce.ac.in",
     },
-    // {
-    //   title: "Indiana University Bloomington",
-    //   subtitle: "M.S. in Computer Science",
-    //   logo_path: "iu_logo.png",
-    //   alt_name: "Indiana University Bloomington",
-    //   duration: "2021 - 2023",
-    //   descriptions: [
-    //     "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-    //     "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-    //     "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
-    //   ],
-    //   website_link: "https://www.indiana.edu/",
-    // },
+    {
+      title: "New Samarath English Higher Secondary School, Ahmedabad",
+      subtitle: "12th Science",
+      logo_path: "nses.jpg",
+      alt_name: "nses_logo",
+      duration: "2018 - 2019",
+      descriptions: [
+        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
+        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
+      ],
+      website_link:
+        "https://preprimaryschools.com/school/new-samarath-english-high-school-258/",
+    },
   ],
 };
 
