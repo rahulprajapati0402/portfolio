@@ -387,22 +387,22 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Machine Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "stanford_logo.png",
+      title: "TCS iON Career Edge",
+      subtitle: "Young Professional",
+      logo_path: "tcs_ion_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-      alt_name: "Stanford University",
-      color_code: "#8C151599",
+        "https://drive.google.com/file/d/1x_pR7Uq-Yv4CC6Pxo_S5Mzaa7_wvcwY5/view?usp=sharing",
+      alt_name: "TCS iON",
+      color_code: "#0C9D5899",
     },
     {
-      title: "Deep Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "deeplearning_ai_logo.png",
+      title: "AutoCAD 2D & 3D Training",
+      subtitle: "Autodesk Authorized Academic Partner",
+      logo_path: "autodesk_logo.jpg",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
+        "https://drive.google.com/file/d/15rjINlKMf_voEZ9QSlnj5JkgOeeBFqXA/view?usp=drive_link",
+      alt_name: "Autodesk",
+      color_code: "#8C151599",
     },
     {
       title: "ML on GCP",
@@ -411,7 +411,7 @@ const certifications = {
       certificate_link:
         "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
       alt_name: "Google",
-      color_code: "#0C9D5899",
+      color_code: "#00000099",
     },
     // {
     //   title: "Data Science",
